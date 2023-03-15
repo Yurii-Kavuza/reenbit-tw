@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/reenbit-tw/static/css/main.073c9b0a.css",
-    "main.js": "/reenbit-tw/static/js/main.1c6655e3.js",
-    "static/js/787.08fb917e.chunk.js": "/reenbit-tw/static/js/787.08fb917e.chunk.js",
-    "static/media/logo.svg": "/reenbit-tw/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/reenbit-tw/static/css/main.c919bd88.css",
+    "main.js": "/reenbit-tw/static/js/main.bd1801d7.js",
     "index.html": "/reenbit-tw/index.html",
-    "main.073c9b0a.css.map": "/reenbit-tw/static/css/main.073c9b0a.css.map",
-    "main.1c6655e3.js.map": "/reenbit-tw/static/js/main.1c6655e3.js.map",
-    "787.08fb917e.chunk.js.map": "/reenbit-tw/static/js/787.08fb917e.chunk.js.map"
+    "main.c919bd88.css.map": "/reenbit-tw/static/css/main.c919bd88.css.map",
+    "main.bd1801d7.js.map": "/reenbit-tw/static/js/main.bd1801d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1c6655e3.js"
+    "static/css/main.c919bd88.css",
+    "static/js/main.bd1801d7.js"
   ]
 }
