@@ -1,0 +1,1 @@
+export { CharacterGeneral } from './CharacterGeneral';

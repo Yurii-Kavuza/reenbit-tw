@@ -1,0 +1,60 @@
+export const theme = {
+  colors: {
+    black: '#000',
+    white: '#fff',
+    textHeader: '#081f32',
+    text2: '#919191',
+    backgroundWhite: '#fff',
+    backgroundGrey: '#ecf1f4',
+    primary: '#00bcd5',
+    secondary: '#05a',
+    accent: '#609',
+    active: '#f23',
+    muted: '#f3f6f9',
+    border: '#cecece',
+  },
+  space: [0, 2, 4, 8, 16, 24, 32, 48, 64, 128, 256],
+  fonts: {
+    body: 'Roboto, sans-serif',
+    heading: 'system-ui, sans-serif',
+    monospace: 'Menlo, monospace',
+  },
+  fontFamily: {
+    general: 'Roboto',
+    special: 'Karla',
+  },
+  fontSizes: {
+    xs: 12,
+    s: 14,
+    m: 16,
+    m18: 18,
+    m20: 20,
+    l: 32,
+    xl: 48,
+    xxl: 64,
+  },
+  fontWeights: {
+    normal: 400,
+    bold: 700,
+  },
+  lineHeights: {
+    body: 1.5,
+    heading: 1.125,
+  },
+  borders: {
+    none: 'none',
+    normal: '1px solid',
+  },
+  radii: {
+    none: '0',
+    small: '2px',
+    normal: '4px',
+    large: '8px',
+    round: '50%',
+  },
+  shadows: {
+    main: ' 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14)',
+    small: '0px 5px 10px #cecece',
+  },
+  breakpoints: ['360px', '1440px'],
+};
